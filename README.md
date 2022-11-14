@@ -33,18 +33,18 @@
 </a>
 
 ### ❇️ GRUPOS OFICIALES
-<a href="https://chat.whatsapp.com/CnsAvjHUhMw1D8y0OcfkIY" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/CdiITbXO2kdGLWBVAdqfCS" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Fd1wp2c3KCG7bHybanoXbR" target="blank"><img src="https://img.shields.io/badge/3️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/G0A7GMhlyAZ2b7JVEoz1Zy" target="blank"><img src="https://img.shields.io/badge/4️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/JHTDXPLoW29I1rxGYnLmmH" target="blank"><img src="https://img.shields.io/badge/5️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/EqRfAd5SuJlHKvDR0gSk6J" target="blank"><img src="https://img.shields.io/badge/1️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432" target="blank"><img src="https://img.shields.io/badge/2️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KWgul1MtLwH5IPT6ccAfSd" target="blank"><img src="https://img.shields.io/badge/3️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/4️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FLRXWxEoS5nCn2yZxgPgVS" target="blank"><img src="https://img.shields.io/badge/5️⃣_COMUNIDAD_DragonBOT_🐉-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### ✅ DRAGONBOT OFICIAL
-<a href="http://wa.me/593993684821?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50498965677?text=.menu" target="blank"><img src="https://img.shields.io/badge/2️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50495086382?text=.menu" target="blank"><img src="https://img.shields.io/badge/3️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5492914469417?text=.menu" target="blank"><img src="https://img.shields.io/badge/4️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/18629102948?text=.menu" target="blank"><img src="https://img.shields.io/badge/1️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/?text=.menu" target="blank"><img src="https://img.shields.io/badge/2️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/?text=.menu" target="blank"><img src="https://img.shields.io/badge/3️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/?text=.menu" target="blank"><img src="https://img.shields.io/badge/4️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/573238484181?text=.menu" target="blank"><img src="https://img.shields.io/badge/5️⃣_𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏(rápido)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </a>
@@ -65,8 +65,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/GataNina-Li/GataBotMD-Termux
-cd GataBotMD-Termux
+git clone https://github.com/DragoBotMD/DRAGON-TERMUX
+cd DRAGON-TERMUX
 yarn install 
 npm install
 npm update
