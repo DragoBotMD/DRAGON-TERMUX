@@ -13,7 +13,7 @@ let handler = async (m, { conn, command, args, usedPrefix }) => {
 ┃ *Ha Gastado* :  -${diamantetk * count} 𝘿𝙄𝘼𝙈𝘼𝙉𝙏𝙀𝙎 💎
 ╰━━━━━〔 *𓃠 ${vs}* 〕━━━━⬣`.trim()
     
-await conn.sendHydrated(m.chat, gata, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+await conn.sendHydrated(m.chat, gata, wm, null, md, '𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙊𝙏 -𝙈𝘿', null, null, [
 ['💎 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙓50', '.buy3 50'],
 ['💎 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 𝙓100', '.buy3 100'],
 ['💎 𝘾𝙤𝙢𝙥𝙧𝙖 𝘼𝙗𝙨𝙤𝙡𝙪𝙩𝙖', '/buyall3']
