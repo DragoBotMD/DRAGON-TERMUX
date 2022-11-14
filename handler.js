@@ -1288,7 +1288,7 @@ export async function handler(chatUpdate) {
 	    
         if (!db.data.chats[m.chat].reaction && m.isGroup) throw 0
         if (!m.fromMem && m.text.match(/(has|ato|ido|ura|des|able|sub|izo|ita|con|.-.|._.|:)|:(|:v|v:|o.o|;v|v;|v':|:'v)/gi)) {
-        let emot = pickRandom(["😺", "😸", "😹", "😻", "😼", "😽", "🙀", "😿", "😾", "🤩", "😏", "😳", "🥵", "🤯", "😱", "😨", "🤫", "🥴", "🤧", "🤑", "🤠", "🤖", "🤝", "💪", "👑", "😚", "🐱", "🐈", "🐆", "🐅", "⚡️", "🌈", "☃️", "⛄️", "🌝", "🌛", "🌜", "🍓", "🍎", "🎈", "🪄", "❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍", "💘", "💝", "💟", "🌝", "😎", "🔥", "🖕", "🐦"])
+        let emot = pickRandom(["😺", "😸", "😹", "😻", "😼", "😽", "🙀", "😿", "😾", "🤩", "😏", "😳", "🥵", "🤯", "😱", "😨", "🤫", "🥴", "🤧", "🤑", "🤠", "🤖", "🤝", "💪", "👑", "😚", "🐱", "🐉", "🐲", "🐅", "⚡️", "🌈", "☃️", "⛄️", "🌝", "🌛", "🌜", "🍓", "🍎", "🎈", "🪄", "❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍", "💘", "💝", "💟", "🌝", "😎", "🔥", "🖕", "🐦"])
         this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
         function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
 		
@@ -1324,8 +1324,8 @@ export async function participantsUpdate({ id, participants, action }) {
                             (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', await this.getName(user)) //.replace('@user', '@' + user.split('@')[0])
                             let apii = await this.getFile(pp)
 this.sendButton(id, wm, text, apii.data, [[(action == 'add' ? lenguajeGB.smsCont13() : lenguajeGB.smsCont14()), (action == 'add' ? '.s' : '.s')], ['💖 𝙄𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪 | 𝙂𝙤 𝙈𝙚𝙣𝙪', `.menu`]], null, {mentions: this.parseMention(text)})
-//this.sendHydrated(id, text, groupMetadata.subject, apii.data, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
-//[(action == 'add' ? '𝙎𝙚 𝙪𝙣𝙞𝙤 🥳 | 𝙃𝙞!!' : '𝙎𝙚 𝙛𝙪𝙚 𝙪𝙣 𝙍𝙖𝙣𝙙𝙤𝙢 🧐 | 𝘽𝙮𝙚'), '.s'], ['💖 𝙄𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪 | 𝙂𝙤 𝙈𝙚𝙣𝙪', '/menu']], '', { mentions: [user]})
+//this.sendHydrated(id, text, groupMetadata.subject, apii.data, 'https://github.com/GataNina-Li/GataBot-MD', '𝘿𝙧𝙖𝙜𝙤𝙣𝘽𝙤𝙩-𝙈𝘿', null, null, [
+//[(action == 'add' ? '𝙎𝙚 𝙪𝙣𝙞𝙤 𝙪𝙣 𝙋𝙧𝙤  | 𝙃𝙞!!' : '𝙎𝙚 𝙛𝙪𝙚 𝙪𝙣 𝙋𝙧𝙤 𝙌𝙪𝙚 𝙉𝙤 𝙇𝙚 𝙎𝙪𝙥𝙤 𝘼𝙡 𝙂𝙧𝙪𝙥𝙤  🤨 | 𝘽𝙮𝙚'), '.s'], ['💖 𝙄𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪 | 𝙂𝙤 𝙈𝙚𝙣𝙪', '/menu']], '', { mentions: [user]})
 }}}
 		    
 break
